@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.caffeine-app.net/images/sequoia/caffeine-2x.png" alt="Caffeine Mac" width="250"/>
+  <img src="https://www.caffeine-app.net/images/sequoia/caffeine-2x.png" alt="Caffeine Mac" width="200"/>
 </p>
 
 <h1 align="center">☕ Caffeine Mac Utility</h1>
@@ -42,9 +42,12 @@ Keep your Mac awake with a single click. Lightweight, effective, and tailored fo
 
 ---
 
-## 📌 What is Caffeine Mac?
+📌 About Caffeine for macOS
+Caffeine for Mac is a lightweight utility designed to keep your Mac awake and prevent it from going into sleep mode, dimming the screen, or activating the screensaver. Sitting quietly in your menu bar, Caffeine provides a simple toggle that ensures your display stays on when needed — whether you're watching a video, giving a presentation, running long processes, or reading something important without touching your keyboard or mouse.
 
-**Caffeine Mac** is a simple yet powerful utility designed to temporarily prevent your Mac from going to sleep, dimming the screen, or activating the screen saver. Perfect for meetings, downloads, or focused workflows.
+With no clutter or complex settings, Caffeine is the go-to tool for professionals, developers, students, and power users who need full control over their Mac’s power behavior. It’s minimal, intuitive, and extremely effective at one job — keeping your Mac alert on your terms.
+
+Caffeine is compatible with both Intel and Apple Silicon (M1, M2, M3) Macs and works seamlessly across macOS versions. Whether you're using a MacBook Pro, MacBook Air, iMac, or Mac mini, Caffeine keeps you in charge of your screen activity with a single click.
 
 ---
 
@@ -67,9 +70,9 @@ Keep your Mac awake with a single click. Lightweight, effective, and tailored fo
 ---
 
 <p align="center">
-  <img src="https://media.idownloadblog.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-16-at-1.19.18-AM.png" alt="Menu Bar Icon Preview" width="800"/>
+  <img src="https://media.idownloadblog.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-16-at-1.19.18-AM.png" alt="Menu Bar Icon Preview" width="600"/>
   <br><br>
-  <img src="https://caffeinated.app/wp-content/uploads/2023/02/asset-new-1.png" alt="Caffeine Preferences Preview" width="800"/>
+  <img src="https://caffeinated.app/wp-content/uploads/2023/02/asset-new-1.png" alt="Caffeine Preferences Preview" width="600"/>
 </p>
 
 ---
@@ -82,6 +85,6 @@ Caffeine Mac runs silently and efficiently in the background. Toggle it off when
 
 ## 🔍 Keywords
 
-`macOS sleep prevention` `Caffeine Mac utility` `Caffeine Mac utility, keep mac awake, prevent mac sleep, macOS no screen saver, mac sleep blocker, presentation tool mac, no sleep app mac, lightweight mac utility, mac menu bar apps, mac prevent idle`  
-`keep Mac awake` `menu bar tool Mac` `macOS 13 14 15 compatible app``prevent screen dim` `macOS productivity utility` `Caffeine for M1 M2 M3 M4`
+Caffeine, Caffeine Mac, Caffeine for Mac, Caffeine Mac download, download Caffeine for Mac, Caffeine app Mac, Caffeine utility Mac, install Caffeine Mac, Caffeine Mac free, Caffeine latest version Mac, Caffeine MacBook, Caffeine for MacBook Pro, Caffeine for MacBook Air, Caffeine M1 Mac, Caffeine M2 Mac, Caffeine M3 Mac, Caffeine for Apple Silicon, Caffeine for Intel Mac, Caffeine dmg Mac, Caffeine direct download Mac, Caffeine .dmg file Mac, Caffeine Mac tool, Caffeine menu bar Mac, Caffeine keep awake Mac, Caffeine screen awake Mac, Caffeine no sleep Mac, Mac Caffeine installer, get Caffeine on Mac, Caffeine app download Mac, Mac sleep prevent tool, Caffeine app for macOS, Mac Caffeine activation tool, Mac keep display on tool, Mac app to prevent sleep, download Caffeine utility Mac, Caffeine macOS setup, Caffeine bar tool Mac, Caffeine system tray Mac
+
 
